@@ -1,0 +1,4 @@
+clear lock
+keycode 100 = Escape
+keycode 102 = Zenkaku_Hankaku
+keycode 66 = Zenkaku_Hankaku Caps_Lock
